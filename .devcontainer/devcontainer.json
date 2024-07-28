@@ -1,0 +1,7 @@
+{
+    "name": "Ethereum Development",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:22",
+    "postCreateCommand": "npm install",
+    "runArgs": ["--network=host"]
+  }
+  
